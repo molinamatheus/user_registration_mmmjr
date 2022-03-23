@@ -1,4 +1,5 @@
 #USER REGISTRATION
+
 ##Objetivo:
 Construir pelo menos dois endpoints utilizando Django:
   - Cadastrar usuário, fornecendo o login, senha e data de nascimento
