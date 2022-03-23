@@ -1,17 +1,17 @@
-#USER REGISTRATION
+# USER REGISTRATION
 
-##Objetivo:
+## Objetivo:
 Construir pelo menos dois endpoints utilizando Django:
   - Cadastrar usuário, fornecendo o login, senha e data de nascimento
   - Senha deixar como opcional, se não fornecido gerar uma senha aleatória.
   - Consultar usuários cadastrados.
   - Deve ser possível consultar em XLSX, CSV ou JSON.
 
-##O que precisa instalar?
+## O que precisa instalar?
 - Instalar Django, Django-rest-framework e Insomnia
 Obs.: O insomnia é opcional, mas eu usei ele para testar
 
-##Como testar a aplicação?
+## Como testar a aplicação?
 Utilizei o Insomnia para isso, e segui os seguintes passos:
 - Criar uma request POST
 - Colocar o seguinte caminho: http://127.0.0.1:8000/users/
